@@ -1,0 +1,40 @@
+﻿
+body
+{
+    font-family: verdana;
+}
+
+table.FormTable
+{
+    font-family: verdana;
+    font-size: medium;
+}
+
+table.ContainerTable td
+{
+    padding: 30px;
+    vertical-align: top;
+}
+
+table.FormTable td
+{
+    padding: 3px;
+}
+
+div.FormDiv
+{
+    padding: 10px;
+    border: 1px solid #999999;
+    background-color: #EAFFD5;
+}
+
+.Error
+{
+    color: #FF0000;
+}
+
+.Hidden
+{
+    visibility: hidden
+}
+
